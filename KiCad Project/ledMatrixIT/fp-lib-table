@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Matrix-Footprints_Custom")(type "KiCad")(uri "${KIPRJMOD}/Matrix-Footprints_Custom.pretty")(options "")(descr ""))
+)
