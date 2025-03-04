@@ -30,3 +30,4 @@ Some tools are required if you want to build your own MatrixCard
 ## To Do:
 - add images
 - add schematic PDF
+- add missing information
