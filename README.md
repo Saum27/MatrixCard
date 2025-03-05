@@ -37,7 +37,7 @@ Some extra parts are needed. It should be noted that the LEDs listed give enough
 
 ### Required tools
 
-Some tools are required if you want to build your own MatrixCard
+Some tools are required if you want to build your own MatrixCard.
 
 - Soldering iron
 - Solder
@@ -47,7 +47,7 @@ Some tools are required if you want to build your own MatrixCard
 
 ## To Do
 
-- add (more) images
-- add schematic PDF
-- add missing information
-- create issues for each entry on this list
+- [ ] add (more) images
+- [ ] add schematic PDF
+- [ ] add missing information
+- [ ] create issues for each entry on this list
