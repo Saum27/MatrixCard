@@ -48,6 +48,7 @@ Some tools are required if you want to build your own MatrixCard.
 ## To Do
 
 - [ ] add (more) images
-- [ ] add schematic PDF
+- [x] add schematic PDF
 - [x] add missing information
+- [ ] add Arduino sketch
 - [ ] create issues for each entry on this list
