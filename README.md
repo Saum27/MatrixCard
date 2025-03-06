@@ -13,7 +13,7 @@ The MatrixCard is a basic engineering project I made for school. It is an LED ma
 - Matrix Controller: Lumissil IS31FL3731 (QFN-28)
 - Resolution: 16x9 monochrome
 - PCB copper layers: 2
-- Dimensions: i forfor CHANGE THIS LATER
+- Dimensions: 85.60 x 53.98 millimeters
 - SMD footprints: 0603 (1608 metric)
 
 ## But why?????
@@ -49,5 +49,5 @@ Some tools are required if you want to build your own MatrixCard.
 
 - [ ] add (more) images
 - [ ] add schematic PDF
-- [ ] add missing information
+- [x] add missing information
 - [ ] create issues for each entry on this list
